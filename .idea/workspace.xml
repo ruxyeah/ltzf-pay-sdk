@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83769dd5-c885-4d10-bfcd-45571ac8b5e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/factory/PayFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/jump_h5/model/GetRefundOrderRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/jump_h5/model/QueryOrderByOutTradeNoRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/jump_h5/model/RefundOrderRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/nativepay/model/GetRefundOrderResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/nativepay/model/RefundOrderResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/utils/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/docs/api/native.sh" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/docs/api/native.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/factory/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/factory/Configuration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/factory/PayFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/factory/defaults/DefaultPayFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/factory/defaults/DefaultPayFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/app/AppPayService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/app/AppPayService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/app/IAppPayApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/app/IAppPayApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/app/model/GetRefundOrderRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/h5/model/GetRefundOrderRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/app/model/GetRefundOrderResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/app/model/GetRefundOrderResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/app/model/PrepayRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/app/model/PrepayRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/app/model/PrepayResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/app/model/PrepayResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/app/model/QueryOrderByOutTradeNoRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/h5/model/QueryOrderByOutTradeNoRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/app/model/QueryOrderByOutTradeNoResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/app/model/QueryOrderByOutTradeNoResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/app/model/RefundOrderRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/jsapi/model/RefundOrderRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/app/model/RefundOrderResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/app/model/RefundOrderResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/h5/H5PayService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/h5/H5PayService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/h5/IH5PayApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/h5/IH5PayApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/h5/model/GetRefundOrderRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/app/model/GetRefundOrderRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/h5/model/GetRefundOrderResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/h5/model/GetRefundOrderResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/h5/model/PrepayRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/h5/model/PrepayRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/h5/model/PrepayResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/h5/model/PrepayResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/h5/model/QueryOrderByOutTradeNoRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/app/model/QueryOrderByOutTradeNoRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/h5/model/QueryOrderByOutTradeNoResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/h5/model/QueryOrderByOutTradeNoResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/h5/model/RefundOrderRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/app/model/RefundOrderRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/h5/model/RefundOrderResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/h5/model/RefundOrderResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/jsapi/IJSPayApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/jsapi/IJSPayApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/jsapi/JSPayService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/jsapi/JSPayService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/jsapi/model/GetRefundOrderRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/jsapi/model/GetRefundOrderRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/jsapi/model/GetRefundOrderResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/jsapi/model/GetRefundOrderResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/jsapi/model/PrepayRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/jsapi/model/PrepayRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/jsapi/model/PrepayResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/jsapi/model/PrepayResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/jsapi/model/QueryOrderByOutTradeNoRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/jsapi/model/QueryOrderByOutTradeNoRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/jsapi/model/QueryOrderByOutTradeNoResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/jsapi/model/QueryOrderByOutTradeNoResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/jsapi/model/RefundOrderRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/h5/model/RefundOrderRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/jsapi/model/RefundOrderResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/jsapi/model/RefundOrderResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/jump_h5/IJumpH5PayApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/jump_h5/IJumpH5PayApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/jump_h5/JumpH5PayService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/jump_h5/JumpH5PayService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/jump_h5/model/GetRefundOrderRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/nativepay/model/GetRefundOrderRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/jump_h5/model/GetRefundOrderResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/jump_h5/model/GetRefundOrderResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/jump_h5/model/PrepayRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/jump_h5/model/PrepayRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/jump_h5/model/PrepayResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/jump_h5/model/PrepayResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/jump_h5/model/QueryOrderByOutTradeNoRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/nativepay/model/QueryOrderByOutTradeNoRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/jump_h5/model/QueryOrderByOutTradeNoResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/jump_h5/model/QueryOrderByOutTradeNoResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/jump_h5/model/RefundOrderRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/nativepay/model/RefundOrderRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/jump_h5/model/RefundOrderResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/jump_h5/model/RefundOrderResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/nativepay/INativePayApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/nativepay/INativePayApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/nativepay/NativePayService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/nativepay/NativePayService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/nativepay/model/GetRefundOrderRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/nativepay/model/GetRefundOrderResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/nativepay/model/PrepayRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/nativepay/model/PrepayRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/nativepay/model/PrepayResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/nativepay/model/PrepayResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/nativepay/model/QueryOrderByOutTradeNoRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/nativepay/model/QueryOrderByOutTradeNoResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/payments/nativepay/model/QueryOrderByOutTradeNoResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/nativepay/model/RefundOrderRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/payments/nativepay/model/RefundOrderResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/utils/SignUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/ruxyeah/ltzf/utils/SignUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/main/java/cn/bugstack/ltzf/utils/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/test/java/cn/bugstack/ltzf/test/ApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/test/java/cn/ruxyeah/ltzf/test/ApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/test/java/cn/bugstack/ltzf/test/AppPayServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/test/java/cn/ruxyeah/ltzf/test/AppPayServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/test/java/cn/bugstack/ltzf/test/H5PayServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/test/java/cn/ruxyeah/ltzf/test/H5PayServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/test/java/cn/bugstack/ltzf/test/JSPayServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/test/java/cn/ruxyeah/ltzf/test/JSPayServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/test/java/cn/bugstack/ltzf/test/JumpH5PayServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/test/java/cn/ruxyeah/ltzf/test/JumpH5PayServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/test/java/cn/bugstack/ltzf/test/NativePayServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/test/java/cn/ruxyeah/ltzf/test/NativePayServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ltzf-sdk-java/src/test/java/cn/bugstack/ltzf/test/WeChatPayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ltzf-sdk-java/src/test/java/cn/ruxyeah/ltzf/test/WeChatPayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rux-dev-tech-ltzf/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/rux-dev-tech-ltzf/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rux-dev-tech-ltzf/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rux-dev-tech-ltzf/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rux-dev-tech-ltzf/xfg-dev-tech-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rux-dev-tech-ltzf/rux-dev-tech-app/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rux-dev-tech-ltzf/xfg-dev-tech-app/src/main/java/cn/bugstack/xfg/dev/tech/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/rux-dev-tech-ltzf/rux-dev-tech-app/src/main/java/cn/ruxyeah/dev/tech/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rux-dev-tech-ltzf/xfg-dev-tech-app/src/main/java/cn/bugstack/xfg/dev/tech/config/LtzfSDKConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/rux-dev-tech-ltzf/rux-dev-tech-app/src/main/java/cn/ruxyeah/dev/tech/config/LtzfSDKConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rux-dev-tech-ltzf/xfg-dev-tech-app/src/main/java/cn/bugstack/xfg/dev/tech/config/LtzfSDKConfigProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/rux-dev-tech-ltzf/rux-dev-tech-app/src/main/java/cn/ruxyeah/dev/tech/config/LtzfSDKConfigProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rux-dev-tech-ltzf/xfg-dev-tech-app/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rux-dev-tech-ltzf/rux-dev-tech-app/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rux-dev-tech-ltzf/xfg-dev-tech-app/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rux-dev-tech-ltzf/rux-dev-tech-app/src/main/resources/application-prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rux-dev-tech-ltzf/xfg-dev-tech-app/src/main/resources/application-test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rux-dev-tech-ltzf/rux-dev-tech-app/src/main/resources/application-test.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rux-dev-tech-ltzf/xfg-dev-tech-app/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rux-dev-tech-ltzf/rux-dev-tech-app/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rux-dev-tech-ltzf/xfg-dev-tech-app/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rux-dev-tech-ltzf/rux-dev-tech-app/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rux-dev-tech-ltzf/xfg-dev-tech-app/src/test/java/cn/bugstack/xfg/dev/tech/test/ApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/rux-dev-tech-ltzf/rux-dev-tech-app/src/test/java/cn/ruxyeah/dev/tech/test/ApiTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/xfg-dev-tech-ltzf" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/maven3/repository" />
+        <option name="userSettingsFile" value="$USER_HOME$/maven3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2k2ebExWfl8ySChxezvCiJ9ozGr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rux-dev-tech-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.ruxyeah.dev.tech.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xfg-dev-tech-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.bugstack.xfg.dev.tech.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83769dd5-c885-4d10-bfcd-45571ac8b5e2" name="Default Changelist" comment="" />
+      <created>1722486171797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722486171797</updated>
+      <workItem from="1722486179710" duration="2575000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/xfg-dev-tech-ltzf" />
+    </ignored-roots>
+  </component>
+</project>

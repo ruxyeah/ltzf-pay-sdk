@@ -1,0 +1,5 @@
+spring:
+  config:
+    name: rux-dev-tech
+  profiles:
+    active: dev
